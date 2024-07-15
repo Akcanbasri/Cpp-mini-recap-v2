@@ -396,8 +396,15 @@ SecondProject_autogen/timestamp: \
 	D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	D:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	D:/SecondProject/CMakeLists.txt \
+	D:/SecondProject/Freezer.h \
+	D:/SecondProject/Microwave.h \
+	D:/SecondProject/Toaster.h \
+	D:/SecondProject/agecalc.cpp \
+	D:/SecondProject/agecalc.h \
 	D:/SecondProject/animal.cpp \
 	D:/SecondProject/animal.h \
+	D:/SecondProject/applience.cpp \
+	D:/SecondProject/applience.h \
 	D:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	D:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
 	D:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
@@ -409,7 +416,11 @@ SecondProject_autogen/timestamp: \
 	D:/SecondProject/feline.h \
 	D:/SecondProject/laptop.cpp \
 	D:/SecondProject/laptop.h \
+	D:/SecondProject/lion.cpp \
+	D:/SecondProject/lion.h \
 	D:/SecondProject/main.cpp \
 	D:/SecondProject/mammal.cpp \
 	D:/SecondProject/mammal.h \
+	D:/SecondProject/test.cpp \
+	D:/SecondProject/test.h \
 	D:/Qt/Tools/CMake_64/bin/cmake.exe

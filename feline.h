@@ -10,7 +10,7 @@ class Feline : public Mammal
     Q_OBJECT
 public:
     explicit Feline(QObject *parent = nullptr);
-    void meow() { qInfo() << "Meow!"; }
+    void meow();
 
 signals:
 };

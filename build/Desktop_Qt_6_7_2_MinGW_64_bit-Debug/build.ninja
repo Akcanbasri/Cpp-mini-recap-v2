@@ -105,6 +105,38 @@ build CMakeFiles/SecondProject.dir/feline.cpp.obj: CXX_COMPILER__SecondProject_u
   OBJECT_DIR = CMakeFiles\SecondProject.dir
   OBJECT_FILE_DIR = CMakeFiles\SecondProject.dir
 
+build CMakeFiles/SecondProject.dir/applience.cpp.obj: CXX_COMPILER__SecondProject_unscanned_Debug D$:/SecondProject/applience.cpp || cmake_object_order_depends_target_SecondProject
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SecondProject.dir\applience.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SecondProject_autogen/include -isystem D:/Qt/6.7.2/mingw_64/include/QtCore -isystem D:/Qt/6.7.2/mingw_64/include -isystem D:/Qt/6.7.2/mingw_64/mkspecs/win32-g++
+  OBJECT_DIR = CMakeFiles\SecondProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\SecondProject.dir
+
+build CMakeFiles/SecondProject.dir/lion.cpp.obj: CXX_COMPILER__SecondProject_unscanned_Debug D$:/SecondProject/lion.cpp || cmake_object_order_depends_target_SecondProject
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SecondProject.dir\lion.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SecondProject_autogen/include -isystem D:/Qt/6.7.2/mingw_64/include/QtCore -isystem D:/Qt/6.7.2/mingw_64/include -isystem D:/Qt/6.7.2/mingw_64/mkspecs/win32-g++
+  OBJECT_DIR = CMakeFiles\SecondProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\SecondProject.dir
+
+build CMakeFiles/SecondProject.dir/test.cpp.obj: CXX_COMPILER__SecondProject_unscanned_Debug D$:/SecondProject/test.cpp || cmake_object_order_depends_target_SecondProject
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SecondProject.dir\test.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SecondProject_autogen/include -isystem D:/Qt/6.7.2/mingw_64/include/QtCore -isystem D:/Qt/6.7.2/mingw_64/include -isystem D:/Qt/6.7.2/mingw_64/mkspecs/win32-g++
+  OBJECT_DIR = CMakeFiles\SecondProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\SecondProject.dir
+
+build CMakeFiles/SecondProject.dir/agecalc.cpp.obj: CXX_COMPILER__SecondProject_unscanned_Debug D$:/SecondProject/agecalc.cpp || cmake_object_order_depends_target_SecondProject
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\SecondProject.dir\agecalc.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SecondProject_autogen/include -isystem D:/Qt/6.7.2/mingw_64/include/QtCore -isystem D:/Qt/6.7.2/mingw_64/include -isystem D:/Qt/6.7.2/mingw_64/mkspecs/win32-g++
+  OBJECT_DIR = CMakeFiles\SecondProject.dir
+  OBJECT_FILE_DIR = CMakeFiles\SecondProject.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SecondProject
@@ -113,7 +145,7 @@ build CMakeFiles/SecondProject.dir/feline.cpp.obj: CXX_COMPILER__SecondProject_u
 #############################################
 # Link the executable SecondProject.exe
 
-build SecondProject.exe: CXX_EXECUTABLE_LINKER__SecondProject_Debug CMakeFiles/SecondProject.dir/SecondProject_autogen/mocs_compilation.cpp.obj CMakeFiles/SecondProject.dir/main.cpp.obj CMakeFiles/SecondProject.dir/animal.cpp.obj CMakeFiles/SecondProject.dir/laptop.cpp.obj CMakeFiles/SecondProject.dir/mammal.cpp.obj CMakeFiles/SecondProject.dir/canine.cpp.obj CMakeFiles/SecondProject.dir/feline.cpp.obj | D$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a || SecondProject_autogen SecondProject_autogen_timestamp_deps
+build SecondProject.exe: CXX_EXECUTABLE_LINKER__SecondProject_Debug CMakeFiles/SecondProject.dir/SecondProject_autogen/mocs_compilation.cpp.obj CMakeFiles/SecondProject.dir/main.cpp.obj CMakeFiles/SecondProject.dir/animal.cpp.obj CMakeFiles/SecondProject.dir/laptop.cpp.obj CMakeFiles/SecondProject.dir/mammal.cpp.obj CMakeFiles/SecondProject.dir/canine.cpp.obj CMakeFiles/SecondProject.dir/feline.cpp.obj CMakeFiles/SecondProject.dir/applience.cpp.obj CMakeFiles/SecondProject.dir/lion.cpp.obj CMakeFiles/SecondProject.dir/test.cpp.obj CMakeFiles/SecondProject.dir/agecalc.cpp.obj | D$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a || SecondProject_autogen SecondProject_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = D:/Qt/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\SecondProject.dir

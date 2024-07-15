@@ -140,11 +140,43 @@
 	"DEP_FILE_RULE_NAME" : "SecondProject_autogen/timestamp",
 	"HEADERS" : 
 	[
+		[
+			"D:/SecondProject/Freezer.h",
+			"MU",
+			"EWIEGA46WW/moc_Freezer.cpp",
+			null
+		],
+		[
+			"D:/SecondProject/Microwave.h",
+			"MU",
+			"EWIEGA46WW/moc_Microwave.cpp",
+			null
+		],
+		[
+			"D:/SecondProject/Toaster.h",
+			"MU",
+			"EWIEGA46WW/moc_Toaster.cpp",
+			null
+		],
+		[
+			"D:/SecondProject/agecalc.h",
+			"MU",
+			"EWIEGA46WW/moc_agecalc.cpp",
+			null
+		],
 		[ "D:/SecondProject/animal.h", "MU", "EWIEGA46WW/moc_animal.cpp", null ],
+		[
+			"D:/SecondProject/applience.h",
+			"MU",
+			"EWIEGA46WW/moc_applience.cpp",
+			null
+		],
 		[ "D:/SecondProject/canine.h", "MU", "EWIEGA46WW/moc_canine.cpp", null ],
 		[ "D:/SecondProject/feline.h", "MU", "EWIEGA46WW/moc_feline.cpp", null ],
 		[ "D:/SecondProject/laptop.h", "MU", "EWIEGA46WW/moc_laptop.cpp", null ],
-		[ "D:/SecondProject/mammal.h", "MU", "EWIEGA46WW/moc_mammal.cpp", null ]
+		[ "D:/SecondProject/lion.h", "MU", "EWIEGA46WW/moc_lion.cpp", null ],
+		[ "D:/SecondProject/mammal.h", "MU", "EWIEGA46WW/moc_mammal.cpp", null ],
+		[ "D:/SecondProject/test.h", "MU", "EWIEGA46WW/moc_test.cpp", null ]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "D:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SecondProject_autogen/include",
@@ -212,12 +244,16 @@
 	"SETTINGS_FILE" : "D:/SecondProject/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SecondProject_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/SecondProject/agecalc.cpp", "MU", null ],
 		[ "D:/SecondProject/animal.cpp", "MU", null ],
+		[ "D:/SecondProject/applience.cpp", "MU", null ],
 		[ "D:/SecondProject/canine.cpp", "MU", null ],
 		[ "D:/SecondProject/feline.cpp", "MU", null ],
 		[ "D:/SecondProject/laptop.cpp", "MU", null ],
+		[ "D:/SecondProject/lion.cpp", "MU", null ],
 		[ "D:/SecondProject/main.cpp", "MU", null ],
-		[ "D:/SecondProject/mammal.cpp", "MU", null ]
+		[ "D:/SecondProject/mammal.cpp", "MU", null ],
+		[ "D:/SecondProject/test.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

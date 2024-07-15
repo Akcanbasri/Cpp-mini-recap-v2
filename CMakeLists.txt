@@ -19,6 +19,14 @@ add_executable(SecondProject
   mammal.h mammal.cpp
   canine.h canine.cpp
   feline.h feline.cpp
+  Toaster.h
+  Freezer.h
+  Microwave.h
+  applience.h applience.cpp
+  lion.h lion.cpp
+  test.h test.cpp
+  agecalc.h agecalc.cpp
+
 )
 target_link_libraries(SecondProject Qt${QT_VERSION_MAJOR}::Core)
 
