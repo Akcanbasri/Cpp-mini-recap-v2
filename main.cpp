@@ -32,22 +32,22 @@ void printAges(AgeCalc &cal){
 int main(int argc, char *argv[]) {
     QCoreApplication a(argc, argv);
 
-    // makeLaptops();
+    makeLaptops();
 
-    // Animal animal;
+    Animal animal;
 
-    // Canine dog;
-    // dog.bark();
-    // Feline cat;
-    // cat.meow();
+    Canine dog;
+    dog.bark();
+    Feline cat;
+    cat.meow();
 
-    // Applience machine2000;
-    // qInfo() << "Cook:" << machine2000.cook();
-    // qInfo() << "Freeze:" << machine2000.freez();
-    // qInfo() << "Grill:" << machine2000.grill();
+    Applience machine2000;
+    qInfo() << "Cook:" << machine2000.cook();
+    qInfo() << "Freeze:" << machine2000.freez();
+    qInfo() << "Grill:" << machine2000.grill();
 
-    // Lion leo;
-    // leo.meow();
+    Lion leo;
+    leo.meow();
 
 
     AgeCalc basri;
